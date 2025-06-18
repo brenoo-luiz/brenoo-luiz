@@ -1,7 +1,8 @@
-<h1 align="left">Hello</h1>
+<h1 align="center">
+  I'm Breno Luiz
+</h1>
 
-###
-
-<p align="left">My name is Breno Luiz, and I'm a Control and Automation Engineering student at UFSC.</p>
-
-###
+<h3 align="center">
+  <a href="mailto:brenluiz13@gmail.com">Email</a> · 
+  <a href="www.linkedin.com/in/breno-luiz-silva">LinkedIn</a>
+</h3>
