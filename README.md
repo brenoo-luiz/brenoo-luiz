@@ -4,5 +4,5 @@
 
 <h3 align="center">
   <a href="mailto:brenluiz13@gmail.com">Email</a> · 
-  <a href="www.linkedin.com/in/breno-luiz-silva">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/breno-luiz-silva" target="_blank">LinkedIn</a>
 </h3>
